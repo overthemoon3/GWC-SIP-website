@@ -186,7 +186,8 @@ li.nav a:hover {
   background-repeat: no-repeat;
   background-color: #43d6b9ff;
   background-size: cover;
-  min-height: 100%; /* This adjusts the height of the image */
+  min-height: 100%; 
+  justify-content: center;/* This adjusts the height of the image */
 
   /* TODO: Add the property to create the parallax scrolling effect here */
   
@@ -194,12 +195,12 @@ li.nav a:hover {
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message {
-  background-image: url("https://cdn.glitch.com/eb615d20-f1f4-4443-bd45-85e1d5bde77b%2Fkitten.jpg?v=1589124083210");
+  background-image: url("https://cdn.glitch.com/d6b4179e-4038-4e2f-9646-99de0bec1eb1%2F23d10abf-93b2-4183-bea1-dd6f56430893.image.png?v=1594759645598");
 }
 
 /* TODO: Replace the current image URL with your own */
 .image-one {
-  background-image: url("https://cdn.glitch.com/eb615d20-f1f4-4443-bd45-85e1d5bde77b%2Fpuppy.jpg?v=1589146535603");
+  background-image: url("");
 }
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
