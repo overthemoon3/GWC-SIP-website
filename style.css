@@ -191,9 +191,28 @@ li.nav a:hover {
   justify-content: center;
 
   /* TODO: Add the property to create the parallax scrolling effect here */
-  
+  background-attachment: inherit;
 }
+.main-message,
+.image-one {
+  /* The background image */
+  background-image: url("img_tree.gif");
 
+  /* Set a specified height, or the minimum height for the background image */
+  min-height: 500px;
+
+  /* Set background image to fixed (don't scroll along with the page) */
+  background-attachment: fixed;
+
+  /* Center the background image */
+  background-position: center;
+
+  /* Set the background image to no repeat */
+  background-repeat: no-repeat;
+
+  /* Scale the background image to be as large as possible */
+  background-size: cover;
+}
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message,
 .image-one {
