@@ -11,6 +11,14 @@ The CSS for the take-action.html is in take-action.css
 /************************************************/
 /************* UNIVERSAL ELEMENTS ***************/
 /************************************************/
+/*
+font-family: 'Coming Soon', cursive;
+                            For paragraphs
+font-family: 'Overlock', cursive;
+                            For subheadings
+font-family: 'Timmana', sans-serif;
+                            For main Heading*/                          
+
 
 /* TODO: Customize your font properties and background color for all elements inside the <body> and <html> tags */
 body,
