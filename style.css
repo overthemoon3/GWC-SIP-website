@@ -24,12 +24,12 @@ font-family: 'Timmana', sans-serif;
 body,
 html {
   height: 100%;
-  font-size: 20px; /* Change the font size*/
-  font-family: "Roboto", sans-serif; /* Change the font */
-  line-height: 1.5em; /* Change the line height size*/
+  font-size: 30px; /* Change the font size*/
+  font-family: "Coming Soon", cursive; /* Change the font */
+  line-height: 1.75em; /* Change the line height size*/
   margin: 0em;
   color: white; /* Change the font color*/
-  background-color: #0D38D3; /* Change the background color */
+  background-color: doesnt matter lol ; /* Change the background color */
   box-sizing: border-box;
 }
 
@@ -74,7 +74,7 @@ ul.nav-bar {
   overflow: hidden;
   background-color: #43d6b9ff;
   border-style: solid;
-  border-color: #0D38D3;
+  border-color: #F5E88A;
 }
 
 /* TODO (optional): Change the font size*/
@@ -90,7 +90,7 @@ li.nav {
 li.nav a {
   /* Styling for the <a> elements in <li class="nav"> */
   display: block;
-  color: #0D38D3;
+  color: #BBF564;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -119,7 +119,7 @@ li.nav a:hover {
   align-items: center; /* Align the flex items to the center */
 
   /* Design properties */
-  background-color: #0D38D3;
+  background-color: #BBF564;
   padding: 5px;
 
   /* Positioning properties */
