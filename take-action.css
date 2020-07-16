@@ -9,6 +9,7 @@
   background-color: #B41204;
   font-family: "Roboto Mono", sans-serif;
   color: #EECD59;
+  
 }
 
 
@@ -82,8 +83,11 @@
 /* Header in the list container */
 #checklist-header {
   text-align: center;
-  color: #0D38D3;
+  color: black;
   letter-spacing: 1px;
+  font-family: 'Timmana', sans-serif;
+                          
+  
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
