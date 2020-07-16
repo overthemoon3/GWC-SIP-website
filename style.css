@@ -34,10 +34,10 @@ html {
 
 h1 {
   letter-spacing: 5px;
-  font-size: px;
+  font-size:26px;
   /*TODO: Change the font-family property to your linked font*/
-  font-family: "Coming Soon", cursive;
-  color: brown;
+  font-family: "Roboto Mono", sans-serif;
+  color: white;
   text-align: center;
 }
 
