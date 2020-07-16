@@ -197,7 +197,8 @@ li.nav a:hover {
   background-attachment: inherit;
 }
 .main-message,
-.image-one {
+.image-one, 
+{
   /* The background image */
   background-image: url("img_tree.gif");
 
