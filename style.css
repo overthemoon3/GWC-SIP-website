@@ -37,8 +37,9 @@ h1 {
   font-size:26px;
   /*TODO: Change the font-family property to your linked font*/
   font-family: "Roboto Mono", sans-serif;
-  color: white;
+  color: #EECD59;
   text-align: center;
+  font-family: 'Timmana', sans-serif;
 }
 
 /*TODO: Change the font-family property to your linked font*/
