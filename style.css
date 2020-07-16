@@ -26,7 +26,7 @@ html {
   font-size: 20px; /* Change the font size*/
   font-family: "Coming Soon", cursive; /* Change the font */
   line-height: 1.25em; /* Change the line height size*/
-  margin: 0em;
+  margin: 1px;
   color: white; /* Change the font color*/
   background-color: #345995; /* Change the background color */
   box-sizing: border-box;
@@ -139,7 +139,7 @@ li.nav a:hover {
 .heading-home {
   padding: 2%;
   color: #43d6b9ff;
-  font-size: 27px;
+  font-size: 20px;
   letter-spacing: 10px;
   line-height: 60px;
   text-align: center;
