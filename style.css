@@ -23,9 +23,9 @@ font-family: 'Timmana', sans-serif;
 body,
 html {
   height: 100%;
-  font-size: 30px; /* Change the font size*/
+  font-size: 20px; /* Change the font size*/
   font-family: "Coming Soon", cursive; /* Change the font */
-  line-height: 1.75em; /* Change the line height size*/
+  line-height: 1.25em; /* Change the line height size*/
   margin: 0em;
   color: white; /* Change the font color*/
   background-color: #345995; /* Change the background color */
@@ -46,7 +46,7 @@ h2 {
   letter-spacing: 3px;
   font-size: 25px;
   font-family: "Roboto Mono", sans-serif;
-  color: brown;
+  color: white;
   text-align: center;
   line-height: 1.3em;
 }
@@ -73,7 +73,7 @@ ul.nav-bar {
   overflow: hidden;
   background-color: #43d6b9ff;
   border-style: solid;
-  border-color: #F5E88A;
+  border-color: #028D71;
 }
 
 /* TODO (optional): Change the font size*/
@@ -89,7 +89,7 @@ li.nav {
 li.nav a {
   /* Styling for the <a> elements in <li class="nav"> */
   display: block;
-  color: brown;
+  color: #028D71;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
