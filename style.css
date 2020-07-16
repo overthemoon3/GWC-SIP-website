@@ -34,7 +34,7 @@ html {
 
 h1 {
   letter-spacing: 5px;
-  font-size: 50px;
+  font-size: 35px;
   /*TODO: Change the font-family property to your linked font*/
   font-family: "Coming Soon", cursive;
   color: brown;
@@ -44,7 +44,7 @@ h1 {
 /*TODO: Change the font-family property to your linked font*/
 h2 {
   letter-spacing: 3px;
-  font-size: 25px;
+  font-size: 17px;
   font-family: "Roboto Mono", sans-serif;
   color: white;
   text-align: center;
@@ -135,7 +135,7 @@ li.nav a:hover {
 .heading-home {
   padding: 2%;
   color: #43d6b9ff;
-  font-size: 50px;
+  font-size: 27px;
   letter-spacing: 10px;
   line-height: 60px;
   text-align: center;
@@ -150,7 +150,7 @@ li.nav a:hover {
   padding: 3%;
   margin: 3%;
   color: white; /* Add the color of your font */
-  font-size: 20px; /* Add your font size*/
+  font-size: 15px; /* Add your font size*/
   letter-spacing: 2px; /* Adds space between letters */
   line-height: 1.4em; /* Adds space between lines */
   text-align: center;
@@ -233,6 +233,7 @@ li.nav a:hover {
 
 .section2{
   padding:60px;
+  box-sizing: border-box;
 }
 
 /******************************************************/
