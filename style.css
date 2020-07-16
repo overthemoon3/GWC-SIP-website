@@ -17,8 +17,7 @@ font-family: 'Coming Soon', cursive;
 font-family: 'Overlock', cursive;
                             For subheadings
 font-family: 'Timmana', sans-serif;
-                            For main Heading*/                          
-
+                            For main Heading*/
 
 /* TODO: Customize your font properties and background color for all elements inside the <body> and <html> tags */
 body,
@@ -29,7 +28,7 @@ html {
   line-height: 1.75em; /* Change the line height size*/
   margin: 0em;
   color: white; /* Change the font color*/
-  background-color: doesnt matter lol ; /* Change the background color */
+  background-color: doesnt matter lol; /* Change the background color */
   box-sizing: border-box;
 }
 
@@ -147,10 +146,10 @@ li.nav a:hover {
 
 /* TODO: Review the CSS properties to the flex item for the intro text (the right box) */
 .intro-text {
-  background-color: #03CEA4; /* Add your own background color */
+  background-color: #8C0E03; /* Add your own background color */
   padding: 3%;
   margin: 3%;
-  color: #03CEA4; /* Add the color of your font */
+  color: white; /* Add the color of your font */
   font-size: 20px; /* Add your font size*/
   letter-spacing: 2px; /* Adds space between letters */
   line-height: 1.4em; /* Adds space between lines */
@@ -185,7 +184,7 @@ li.nav a:hover {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: #43d6b9ff;
+  background-color: #345995;
   background-size: cover;
   min-height: 100%; /* This adjusts the height of the image */
   justify-content: center;
@@ -238,5 +237,4 @@ li.nav a:hover {
 
 /* TODO: Add a breakpoint if the screen is 700px or less */
 
-
-/* TODO: Add additional breakpoints based on your website's design
+/* TODO: Add additional breakpoints based on your website's design */
