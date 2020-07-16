@@ -34,7 +34,7 @@ html {
 
 h1 {
   letter-spacing: 5px;
-  font-size: 35px;
+  font-size: px;
   /*TODO: Change the font-family property to your linked font*/
   font-family: "Coming Soon", cursive;
   color: brown;
@@ -95,6 +95,10 @@ li.nav a {
   text-decoration: none;
   text-transform: uppercase;
   font-weight: bold;
+}
+
+li.other-nav {
+  padding-bottom:30px;
 }
 
 /* TODO (optional): Change the background color and/or font color when the mouse hovers over an item */
