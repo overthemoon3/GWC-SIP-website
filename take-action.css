@@ -159,7 +159,11 @@ like a checkmark!
 
 /* When marked complete (i.e. clicked on) add strikethrough */
 #my-list li.all-done {
-  text-decoration: line-through;
+  text-decoration:line-through;
+  line-through-size:20px;
+  font-size: 20px;
+color: #B41204;}
+
 }
 
 /* Add a "checked" mark when clicked on */
@@ -174,8 +178,21 @@ like a checkmark!
   transform: rotate(45deg);
   height: 15px;
   width: 7px;
+}     /*   OYAAAA
+.strikeout {
+  font-size: 4em;
+  line-height: 1em;
+  position: relative;
+}                                   /*   OYAAAA
+.strikeout::after {
+  border-bottom: 0.125em solid red;
+  content: "";
+  left: 0;
+  margin-top: calc(0.125em / 2 * -1);
+  position: absolute;
+  right: 0;
+  top: 50%;
 }
-
 
 
 /******************************************************/
