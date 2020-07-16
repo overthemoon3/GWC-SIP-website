@@ -183,7 +183,8 @@ li.nav a:hover {
 /* TODO: Add the CSS selector for each image to the collective image rule set */
 
 .main-message,
-.image-one {
+.image-one,
+.image-two{
   display: flex;
   position: relative;
   background-position: center;
@@ -196,9 +197,11 @@ li.nav a:hover {
   /* TODO: Add the property to create the parallax scrolling effect here */
   background-attachment: inherit;
 }
+
+
 .main-message,
 .image-one, 
-{
+.image-two{
   /* The background image */
   background-image: url("img_tree.gif");
 
@@ -219,10 +222,15 @@ li.nav a:hover {
 }
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message,
-.image-one {
+.image-one,
+.image-two{
   background-image: url("https://cdn.glitch.com/d6b4179e-4038-4e2f-9646-99de0bec1eb1%2F73ccea2a-3a92-4480-bd6c-2e76cae0cebf.image.png?v=1594760367964");
 }
 
+
+.cutting{
+  background-image: url("https://cdn.glitch.com/d6b4179e-4038-4e2f-9646-99de0bec1eb1%2F5d3a6db3-51ee-42cf-a968-72605319bee6.image.png?v=1594867979227")
+}
 /* TODO: Replace the current image URL with your own */
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
